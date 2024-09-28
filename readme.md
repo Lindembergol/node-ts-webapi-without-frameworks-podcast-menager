@@ -45,8 +45,6 @@ Exemplo de resposta:
 - **Descrição**: Retorna uma lista de episódios filtrados pelo nome do podcast enviado pelo cliente.
 - **Endpoint**: `/api/episode?p={nome_do_podcast}`
 
-Aqui está a seção de **Tecnologias Utilizadas** com os hyperlinks em Markdown para cada uma das tecnologias mencionadas:
-
 ---
 
 ## Tecnologias Utilizadas
