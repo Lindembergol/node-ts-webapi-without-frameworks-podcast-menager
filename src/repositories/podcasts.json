@@ -1,0 +1,26 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - FLOW #319",
+        "videoId": "pQSuQmUfS30",
+        "category": ["saúde", "esporte", "bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "TREINEI COM O CBUM NO CT DA MAX",
+        "videoId": "JVSI3NKFVig",
+        "category": ["humor", "bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "LINDEMBERG TRADER MILIONARIO",
+        "videoId": "JVSISNKFVig",
+        "category": ["esporte", "trade"]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "TRADER MILIONARIO",
+        "videoId": "JVSISNKFVig",
+        "category": ["humor", "trade"]
+    }
+]

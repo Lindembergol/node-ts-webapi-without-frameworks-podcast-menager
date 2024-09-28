@@ -1,0 +1,7 @@
+//Cria uma interface (forma)
+export interface PodcastModel {
+    podcastName: string,
+    episode: string,
+    videoId: string,
+    category: string[]
+}
